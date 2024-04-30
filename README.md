@@ -1,6 +1,6 @@
 # 'Find My' Pinger
 
-## Inspired by [\@wakapippi and \@aiueo4041](https://twitter.com/aiueo4041/status/1784813539833835550)
+## Inspired by [\@wakapippi and \@aiueo4041](https://twitter.com/aiueo4041/status/1784813539833835550) on Twitter
 
 Put this together in a couple minutes on a whim after seeing that thread, so not exactly the cleanest code.
 
